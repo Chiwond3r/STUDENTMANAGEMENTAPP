@@ -1,5 +1,3 @@
-# STUDENTMANAGEMENTAPP
-=======
 # Student Management System - Java Application
 
 ## Overview
@@ -44,4 +42,3 @@ For a more advanced implementation using Spring Boot, refer to Build a FULL Stud
 
 ## Contact
 For any inquiries or feedback, please contact azukaphilemon@gmail.com.
->>>>>>> 399e872 (Your commit message)
